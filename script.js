@@ -4,7 +4,7 @@ dir = "./";
 playlist = ["say-so" , "boss-bitch" , "harmony","introduction","hips don't lie","cradels","suger brownise"]
 
 title = ["say-so.mp3" , "boss-bitch.mp3" , "harmony.mp3","introduction.mp3","hips don't lie.mp3","cradels.mp3","suger brownise.mp3"]
-poster=["./1.jpg","./2.jpg","./3.jpg","./4.jpg","./5.jpg","./6.jpg","./7.jpg"]
+poster=["/1.jpg","/2.jpg","/3.jpg","/4.jpg","/5.jpg","/6.jpg","/7.jpg"]
 artists=["Daniel Levi", "Diviners-X-Riell","Nilka","Jone","AERYN","Chris Linton","Xaia, Rain Man, Oly"]
 
 playlist_index = 0;
